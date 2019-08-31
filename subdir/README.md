@@ -18,3 +18,7 @@
 |:--:|:--:|:--:|
 | <img src="./English+ひらがな/Octocatおくときゃっと.png"> | <img src="./English+カタカナ/Octocatオクトキャット.png"> | <img src="./English+漢字/Octocat蛸足猫.png"> |
 
+|漢字+ひらがな|漢字+カタカナ|漢字+English|
+|:--:|:--:|:--:|
+| <img src="./漢字+ひらがな/蛸足猫おくときゃっと.png"> | <img src="./漢字+カタカナ/蛸足猫オクトキャット.png"> | <img src="./漢字+English/蛸足猫Octocat.png"> |
+
