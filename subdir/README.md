@@ -12,3 +12,9 @@
 |:--:|:--:|:--:|:--:|
 |<img src="./English/Octocat.png">| <img src="./ひらがな/Octocat.png">| <img src="./カタカナ/Octocat.png">| <img src="./漢字/Octocat.png">|
 
+## 画像とパス
+
+|English+ひらがな|English+カタカナ|English+漢字|
+|:--:|:--:|:--:|
+| <img src="./English+ひらがな/Octocatおくときゃっと.png"> | <img src="./English+カタカナ/Octocatオクトキャット.png"> | <img src="./English+漢字/Octocat蛸足猫.png"> |
+
